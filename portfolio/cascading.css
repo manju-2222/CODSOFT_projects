@@ -1,0 +1,44 @@
+h3{
+	color: rgb(236, 108, 17);
+	text-align: center;
+}
+h4{
+	text-align: center;
+	color: rgb(74, 43, 226);
+}
+h1{
+	color: red;
+	text-align: center;
+}
+h2{
+	font-family: inherit;
+	color: rgb(22, 129, 22);
+	text-align: center;
+}
+body{
+	background-image: url('https://images.unsplash.com/photo-1512950050685-b1d4ae63d2df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+.sp{
+	color: rgb(25, 27, 26);
+	font-size: 30px;
+}
+#new{
+	color: rgb(22, 129, 22);
+	text-align: center;
+}
+.image{
+	width: 160px;
+	height: 175px;
+	margin-left: 10px;
+}
+#division{
+	color: blueviolet;
+}
+#divs{
+	text-align: center;
+	color: brown;
+}
